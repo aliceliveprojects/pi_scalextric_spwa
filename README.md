@@ -33,7 +33,11 @@ To pass the broker details to the SPWA can be done either 2 ways
 | password   | Broker Password|
 
 
-*Example https://aliceliveprojects.github.io/pi_scalextric_spwa/src/index.html#!/index?brokerPort=8081&brokerHost=test.mosquitto.org&uuid=testUUID&ssl=true*
+**Example** 
+
+```url
+https://aliceliveprojects.github.io/pi_scalextric_spwa/src/index.html#!/index?brokerPort=443&brokerHost=thedigitallabsmqtt.herokuapp.com&uuid=testUUID&ssl=true
+```
 
 <img src="https://github.com/aliceliveprojects/pi_scalextric_spwa/blob/master/docs/QrCode.png" width="200">
 
